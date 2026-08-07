@@ -1,31 +1,31 @@
-#`VOSS // SYSTEMS LABORATORY`
+# 🧪 VOSS // SYSTEMS LABORATORY
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff88&height=230&section=header&text=VOSS%20//%20SYSTEMS%20LAB&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEMS%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20SECURITY%20%E2%80%A2%20INFRASTRUCTURE&descAlignY=61&descSize=15">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/MODE-RESEARCH-8b5cf6?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/MINDSET-FIRST%20PRINCIPLES-ff0055?style=for-the-badge&labelColor=0d1117">
-</p>
+### `SYSTEMS ENGINEER • BUILDER • RESEARCHER • MAD SCIENTIST`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vxssroott&style=for-the-badge&color=00ff88&label=LAB+VISITORS">
-</p>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/MODE-RESEARCH-8b5cf6?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/MINDSET-FIRST%20PRINCIPLES-ff0055?style=for-the-badge&labelColor=0d1117">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vxssroott&style=for-the-badge&color=00ff88&label=LAB+VISITORS">
+
+</div>
 
 ---
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                     V O S S   L A B S                            ║
-║                                                                  ║
-║      SOFTWARE • SYSTEMS • SECURITY • INTELLIGENCE • FINTECH      ║
-║                                                                  ║
-║                    [ EXPERIMENT IN PROGRESS ]                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 V O S S   L A B O R A T O R Y                ║
+║                                                              ║
+║     SOFTWARE • SYSTEMS • SECURITY • FINTECH • AI            ║
+║                                                              ║
+║                 [ EXPERIMENT IN PROGRESS ]                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ## `> whoami`
@@ -35,157 +35,150 @@ $ whoami
 
 vxssroott
 
-$ cat /etc/voss
+$ cat profile.txt
 
 Systems Engineer.
 Builder.
-Software architect.
+Software Architect.
 Open-source researcher.
 Occasional mad scientist.
 
-I don't just write software.
-
-I investigate systems,
-design architectures,
+I build systems from first principles,
 break assumptions,
-and turn ridiculous ideas into working machines.
+study the failure,
+and build them better.
 ```
 
-I build at the intersection of **systems engineering, enterprise software, financial infrastructure, cybersecurity, programming languages, AI, and developer infrastructure.**
+I work across **systems engineering, enterprise software, financial infrastructure, cybersecurity, programming languages, AI, and software architecture.**
 
 I like difficult problems.
 
-Preferably the kind where the documentation ends and the fun begins.
+Especially the ones that make people say:
+
+> *"Why would you build that?"*
 
 ---
 
-# `⚗️ THE LABORATORY`
+# ⚗️ THE LABORATORY
 
-Four experiments currently occupying unreasonable amounts of brain capacity:
+## 🧠 AXIOM
 
----
+### Intelligent Modular ERP Platform
 
-## `01 // AXIOM`
+**Axiom** is a modular, multi-tenant ERP platform designed to let organizations manage their operations from a single secure workspace.
 
-### **Intelligent Modular ERP Platform**
-
-> **One platform. Multiple businesses. Unlimited modules.**
-
-AXIOM is a **multi-tenant ERP platform** designed around modularity, tenant isolation, permissions, and extensibility.
-
-Different organizations can operate completely different combinations of business modules while sharing the same underlying platform.
+The architecture revolves around a powerful module system where different tenants can enable different combinations of business capabilities.
 
 ```text
-                    AXIOM
-                      │
-          ┌───────────┴───────────┐
-          │       PLATFORM        │
-          │                       │
-          │ Auth • Tenancy        │
-          │ RBAC • Billing        │
-          │ Analytics • Audit     │
-          └───────────┬───────────┘
-                      │
-                MODULE REGISTRY
-                      │
-       ┌──────────────┼──────────────┐
-       │              │              │
-      CRM          INVENTORY      ACCOUNTING
-       │              │              │
-     SALES          PROJECTS        PAYROLL
-       │              │              │
-       └──────────────┼──────────────┘
-                      │
-                TENANT CONFIG
-                      │
-              DYNAMIC NAVIGATION
+                         AXIOM
+                           │
+                 ┌─────────┴─────────┐
+                 │     PLATFORM      │
+                 │                   │
+                 │ Auth • Tenancy    │
+                 │ RBAC • Billing    │
+                 │ Analytics • Audit │
+                 └─────────┬─────────┘
+                           │
+                    MODULE REGISTRY
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+         CRM           INVENTORY        ACCOUNTING
+          │                │                │
+        SALES           PROJECTS          HR
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                    TENANT CONFIG
+                           │
+                  DYNAMIC NAVIGATION
 ```
 
-### `The interesting part`
-
-Modules aren't hardwired into the core.
+### Core idea
 
 ```text
-Global Registry
-      ↓
-Tenant Module Registry
-      ↓
+Global Module Registry
+          ↓
+Tenant Module Configuration
+          ↓
 Permissions + RLS
-      ↓
+          ↓
 Dynamic Navigation
-      ↓
+          ↓
 Independent Business Modules
 ```
 
-The architecture is designed so new modules can be introduced **without rewriting the core platform**.
+### Modules
 
-Current conceptual domains include:
+`CRM` `Inventory` `Sales` `Projects` `Accounting` `Payroll` `HR`
 
-`CRM` `Inventory` `Sales` `Projects` `Accounting` `Payroll` `HR` `Documents` `Analytics` `Education` `Healthcare` `Construction` `Legal` and more.
+`Documents` `Calendar` `Notifications` `Reports` `Analytics`
 
-**Status:** `████████████████░░░░ ACTIVE`
+`Education` `Healthcare` `Construction` `Legal` `Vehicle Management`
+
+> **The goal:** add business capabilities without rewriting the core platform.
+
+[→ Explore AXIOM](https://github.com/vxssroott/Axiom)
 
 ---
 
-# `02 // STARCORE`
+# 🏦 STARCORE
 
-### **The Next Generation of Banking**
+### The Next Generation of Banking
 
-> **Banking should disappear. Money should simply work.**
-
-StarCore is a next-generation digital banking ecosystem designed for individuals, businesses, and financial institutions.
+StarCore is a digital banking ecosystem designed around secure, intelligent and premium financial experiences.
 
 ```text
-                  STARCORE
-                     │
-       ┌─────────────┼─────────────┐
-       │             │             │
-    MOBILE           WEB         OPERATIONS
-       │             │             │
-       └─────────────┼─────────────┘
-                     │
-              CORE BANKING
-                     │
-       ┌─────────────┼─────────────┐
-       │             │             │
-    PAYMENTS       CARDS         ACCOUNTS
-       │             │             │
-       ├─────────────┼─────────────┤
-       │             │             │
-     FRAUD       COMPLIANCE       AI
-       │             │             │
-       └─────────────┼─────────────┘
-                     │
-                 ANALYTICS
+                      STARCORE
+                          │
+           ┌──────────────┼──────────────┐
+           │              │              │
+        MOBILE           WEB         OPERATIONS
+           │              │              │
+           └──────────────┼──────────────┘
+                          │
+                   CORE BANKING
+                          │
+           ┌──────────────┼──────────────┐
+           │              │              │
+        PAYMENTS        CARDS         ACCOUNTS
+           │              │              │
+           └──────────────┼──────────────┘
+                          │
+               SECURITY • RISK • FRAUD
+                          │
+                         AI
 ```
 
-### `Built around`
+### Core areas
 
-* Secure onboarding
+* Customer mobile banking
+* Customer web banking
+* Internal operations
 * Accounts & wallets
 * Transfers
 * Payments
 * Cards
 * Savings
-* Spending intelligence
+* Spending analytics
 * AI banking assistant
 * Fraud detection
 * Risk monitoring
 * Compliance
-* Internal operations
 * Audit & reporting
 
-**Status:** `██████████████░░░░░░ BUILDING`
+> **Banking software should disappear. Money should simply work.**
+
+[→ Explore StarCore](https://github.com/vxssroott/starcore)
 
 ---
 
-# `03 // RUSKEY`
+# 🦀 RUSKEY
 
-### **A Monkey Interpreter — Written in Rust**
+### A Monkey Interpreter Written in Rust
 
-> **Because sometimes the best way to understand a language is to build one.**
-
-Ruskey is an educational implementation of the Monkey programming language, exploring interpreter construction and idiomatic Rust.
+Ruskey is an implementation of the Monkey programming language, built as an exploration of interpreter construction, parsing, runtime design and idiomatic Rust.
 
 ```text
 SOURCE
@@ -217,44 +210,51 @@ REPL
 
 Exploring:
 
-`Lexing` `Parsing` `ASTs` `Pratt Parsing` `Evaluation` `Closures` `Environments` `Ownership` `Type Design`
+* Lexical analysis
+* Pratt parsing
+* Abstract syntax trees
+* Expression evaluation
+* Functions & closures
+* Environments
+* Runtime objects
+* Rust ownership & type design
 
-**Status:** `██████████████░░░░░░ RESEARCH`
+> Sometimes the best way to understand a language is to build one.
+
+[→ Explore Ruskey](https://github.com/vxssroott/Ruskey-1)
 
 ---
 
-# `04 // VIPER-01`
+# 🐍 VIPER-01
 
-### **Red Team Operations Platform**
+### Red Team Operations Platform
 
-> **Where software engineering meets adversarial thinking.**
-
-Viper is a powerful red-team platform designed for adversary simulation and cybersecurity assessment.
+Viper is a red-team platform designed for adversary simulation and cybersecurity assessment.
 
 ```text
-                    VIPER
-                      │
-          ┌───────────┴───────────┐
-          │                       │
-       OPERATOR                 AGENT
-          │                       │
-          └───────────┬───────────┘
-                      │
-                ORCHESTRATION
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-      MODULES       AUTOMATION     LLM
-        │             │             │
-        └─────────────┼─────────────┘
-                      │
-               TARGET ENVIRONMENT
+                         VIPER
+                           │
+                ┌──────────┴──────────┐
+                │                     │
+             OPERATOR                AGENT
+                │                     │
+                └──────────┬──────────┘
+                           │
+                     ORCHESTRATION
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+           MODULES      AUTOMATION      LLM
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                    TARGET ENVIRONMENT
 ```
 
-### `Capabilities`
+### Capabilities
 
 * Multi-platform operations
-* MITRE ATT&CK-aligned tooling
+* MITRE ATT&CK-oriented tooling
 * 100+ post-exploitation modules
 * LLM agent integration
 * Automated workflows
@@ -264,96 +264,53 @@ Viper is a powerful red-team platform designed for adversary simulation and cybe
 * Security assessment tooling
 * Defense-evasion research
 
-**Status:** `████████████████░░░░ RESEARCH`
+[→ Explore Viper-01](https://github.com/vxssroott/Viper-01)
 
 ---
 
-# `🧠 THE ENGINEERING LAB`
+# 🔬 RESEARCH INTERESTS
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  SYSTEMS ENGINEERING        ████████████████████            │
-│  SOFTWARE ARCHITECTURE      ████████████████████            │
-│  CYBERSECURITY              ██████████████████              │
-│  AI SYSTEMS                 █████████████████               │
-│  FINANCIAL INFRASTRUCTURE   ███████████████████             │
-│  PROGRAMMING LANGUAGES      ██████████████████              │
-│  DISTRIBUTED SYSTEMS        █████████████████               │
-│  DEVELOPER INFRASTRUCTURE   ███████████████████             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+SYSTEMS ENGINEERING        ████████████████████
+SOFTWARE ARCHITECTURE      ████████████████████
+CYBERSECURITY              ██████████████████
+FINANCIAL INFRASTRUCTURE   ███████████████████
+PROGRAMMING LANGUAGES      █████████████████
+AI SYSTEMS                 █████████████████
+DISTRIBUTED SYSTEMS        █████████████████
+DEVELOPER INFRASTRUCTURE   ███████████████████
 ```
 
 ---
 
-# `⚙️ THE STACK`
+# ⚙️ TECHNOLOGY
 
 ### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=rust,ts,js,python,postgres,bash">
-</p>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Systems & Infrastructure
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,cloudflare,wasm">
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 
-### Web & Application Engineering
+### Web
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs">
-</p>
-
----
-
-# `🧪 CURRENT EXPERIMENTS`
-
-```text
-[ AXIOM ]
-
-→ Multi-tenant architecture
-→ Modular ERP infrastructure
-→ Dynamic module registry
-→ RBAC / RLS
-→ Business systems
-→ Extensible platform architecture
-
-
-[ STARCORE ]
-
-→ Banking infrastructure
-→ Payments
-→ Accounts
-→ Risk
-→ Fraud
-→ AI
-→ Operations
-
-
-[ RUSKEY ]
-
-→ Interpreters
-→ Rust
-→ Parsing
-→ AST design
-→ Runtime systems
-
-
-[ VIPER ]
-
-→ Red team operations
-→ Adversary simulation
-→ Security automation
-→ LLM agents
-→ Modular post-exploitation
-```
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ---
 
-# `🔬 ENGINEERING PHILOSOPHY`
+# 🧠 ENGINEERING PHILOSOPHY
 
 ```text
 01. Understand the system.
@@ -377,88 +334,73 @@ Viper is a powerful red-team platform designed for adversary simulation and cybe
 10. Repeat.
 ```
 
-> **Don't build what you don't understand.**
+> **Build > Talk**
 
-> **Don't scale what you haven't measured.**
+> **Understanding > Memorisation**
 
-> **Don't add abstractions without reason.**
+> **First Principles > Cargo Cult**
 
-> **Don't confuse complexity with sophistication.**
+> **Architecture > Patches**
 
-> **Build > Talk.**
+> **Failure > Fear**
 
 ---
 
-# `☢️ LAB PROTOCOL`
+# ☢️ LAB PROTOCOL
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║     CURIOSITY IS THE PRIMARY POWER SOURCE.              ║
+║  CURIOSITY IS THE PRIMARY POWER SOURCE.                 ║
 ║                                                          ║
-║     FAILURE IS DATA.                                    ║
+║  FAILURE IS DATA.                                        ║
 ║                                                          ║
-║     COMPLEXITY MUST JUSTIFY ITS EXISTENCE.               ║
+║  COMPLEXITY MUST JUSTIFY ITS EXISTENCE.                  ║
 ║                                                          ║
-║     EVERY SYSTEM HAS A FUNDAMENTAL MODEL.               ║
+║  EVERY SYSTEM HAS A FUNDAMENTAL MODEL.                  ║
 ║                                                          ║
-║     UNDERSTAND IT.                                      ║
+║  UNDERSTAND IT.                                          ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# `📊 GITHUB TELEMETRY`
+# 📊 GITHUB TELEMETRY
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vxssroott&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxssroott&layout=compact&theme=transparent&hide_border=true&langs_count=8">
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vxssroott&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxssroott&layout=compact&theme=transparent&hide_border=true&langs_count=8">
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vxssroott&theme=transparent&hide_border=true">
-</p>
+
+</div>
 
 ---
 
-# `📡 ACTIVITY MATRIX`
+# 🛰️ PINNED EXPERIMENTS
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vxssroott&theme=github-compact&hide_border=true&area=true">
-</p>
+<div align="center">
 
----
+[![Axiom](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=Axiom\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/Axiom)
 
-# `🛰️ PINNED EXPERIMENTS`
+[![StarCore](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=starcore\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/starcore)
 
-<p align="center">
+[![Ruskey](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=Ruskey-1\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/Ruskey-1)
 
-<a href="https://github.com/vxssroott/Axiom">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vxssroott&repo=Axiom&theme=transparent&hide_border=true">
-</a>
+[![Viper](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=Viper-01\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/Viper-01)
 
-<a href="https://github.com/vxssroott/starcore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vxssroott&repo=starcore&theme=transparent&hide_border=true">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/vxssroott/Ruskey-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vxssroott&repo=Ruskey-1&theme=transparent&hide_border=true">
-</a>
-
-<a href="https://github.com/vxssroott/Viper-01">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vxssroott&repo=Viper-01&theme=transparent&hide_border=true">
-</a>
-
-</p>
+</div>
 
 ---
 
-# `📡 TRANSMISSION`
+# 📡 TERMINAL
 
 ```bash
 $ git clone https://github.com/vxssroott
@@ -486,7 +428,7 @@ $ ./laboratory
 
 ---
 
-<p align="center">
+<div align="center">
 
 ## `⚠️ SYSTEM STATUS`
 
@@ -498,8 +440,4 @@ $ ./laboratory
 
 `VOSS // SYSTEMS LABORATORY`
 
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:161b22,100:0d1117&height=120&section=footer">
-</p>
+</div>
