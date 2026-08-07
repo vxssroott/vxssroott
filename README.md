@@ -1,184 +1,200 @@
-# 🧪 VOSS // SYSTEMS LABORATORY
+# ☢️ `VOSS // RESEARCH FACILITY`
 
 <div align="center">
 
-### `SYSTEMS ENGINEER • BUILDER • RESEARCHER • MAD SCIENTIST`
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                    ██████╗  █████╗ ██████╗                       ║
+║                    ██╔══██╗██╔══██╗██╔══██╗                      ║
+║                    ██║  ██║███████║██████╔╝                      ║
+║                    ██║  ██║██╔══██║██╔══██╗                      ║
+║                    ██████╔╝██║  ██║██║  ██║                      ║
+║                    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝                      ║
+║                                                                    ║
+║              V O S S   R E S E A R C H   F A C I L I T Y          ║
+║                                                                    ║
+║        SYSTEMS • INTELLIGENCE • SECURITY • INFRASTRUCTURE         ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge&labelColor=0d1117">
-<img src="https://img.shields.io/badge/MODE-RESEARCH-8b5cf6?style=for-the-badge&labelColor=0d1117">
-<img src="https://img.shields.io/badge/MINDSET-FIRST%20PRINCIPLES-ff0055?style=for-the-badge&labelColor=0d1117">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=vxssroott&style=for-the-badge&color=00ff88&label=LAB+VISITORS">
+![Status](https://img.shields.io/badge/FACILITY-ONLINE-00ff88?style=for-the-badge\&labelColor=050505)
+![Clearance](https://img.shields.io/badge/CLEARANCE-ROOT-ff0055?style=for-the-badge\&labelColor=050505)
+![Research](https://img.shields.io/badge/RESEARCH-ACTIVE-8b5cf6?style=for-the-badge\&labelColor=050505)
+![Experiments](https://img.shields.io/badge/EXPERIMENTS-UNSTABLE-ff6b00?style=for-the-badge\&labelColor=050505)
 
 </div>
 
 ---
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 V O S S   L A B O R A T O R Y                ║
-║                                                              ║
-║     SOFTWARE • SYSTEMS • SECURITY • FINTECH • AI            ║
-║                                                              ║
-║                 [ EXPERIMENT IN PROGRESS ]                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+[ SYSTEM BOOT SEQUENCE ]
+
+> establishing secure connection...
+> identity verified: VXSSROOTT
+> privilege level: ROOT
+> laboratory access: GRANTED
+> containment systems: NOMINAL
+> active experiments: 04
+> cognitive load: ████████████████████ 100%
+
+> WARNING:
+> several experiments are operating outside recommended parameters.
+
+> proceeding anyway...
 ```
-
-## `> whoami`
-
-```bash
-$ whoami
-
-vxssroott
-
-$ cat profile.txt
-
-Systems Engineer.
-Builder.
-Software Architect.
-Open-source researcher.
-Occasional mad scientist.
-
-I build systems from first principles,
-break assumptions,
-study the failure,
-and build them better.
-```
-
-I work across **systems engineering, enterprise software, financial infrastructure, cybersecurity, programming languages, AI, and software architecture.**
-
-I like difficult problems.
-
-Especially the ones that make people say:
-
-> *"Why would you build that?"*
 
 ---
 
-# ⚗️ THE LABORATORY
-
-## 🧠 AXIOM
-
-### Intelligent Modular ERP Platform
-
-**Axiom** is a modular, multi-tenant ERP platform designed to let organizations manage their operations from a single secure workspace.
-
-The architecture revolves around a powerful module system where different tenants can enable different combinations of business capabilities.
+## `╭─ SUBJECT PROFILE`
 
 ```text
-                         AXIOM
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  SUBJECT ID       VXSSROOTT                                      │
+│  DESIGNATION      SYSTEMS ENGINEER                               │
+│  CLASS            BUILDER / ARCHITECT                            │
+│  SPECIALIZATION   COMPLEX SYSTEMS                                │
+│  LOCATION         UNKNOWN                                       │
+│  STATUS           ACTIVE                                        │
+│                                                                  │
+│  KNOWN BEHAVIOUR:                                                │
+│                                                                  │
+│  • builds systems instead of talking about them                  │
+│  • investigates problems that should probably be left alone      │
+│  • occasionally writes software at unreasonable hours           │
+│  • treats impossible requirements as engineering problems       │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+I build things at the intersection of **systems engineering, enterprise software, financial infrastructure, cybersecurity, programming languages, AI, and software architecture.**
+
+My preferred workflow is simple:
+
+```text
+OBSERVE → HYPOTHESIZE → BUILD → BREAK → MEASURE → REBUILD
+```
+
+---
+
+# `☢️ EXPERIMENT INDEX`
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║ EXPERIMENT        DOMAIN                         STATUS           ║
+╠══════════════════════════════════════════════════════════════════╣
+║ AXIOM             ENTERPRISE / ERP              ACTIVE           ║
+║ STARCORE          FINANCIAL SYSTEMS             BUILDING         ║
+║ RUSKEY            LANGUAGE / RUST               RESEARCH         ║
+║ VIPER-01          SECURITY / RED TEAM           ACTIVE           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `🧬 EXPERIMENT 001 // AXIOM`
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  CODENAME        AXIOM                                           │
+│  CATEGORY        MODULAR ERP                                     │
+│  ARCHITECTURE    MULTI-TENANT                                   │
+│  OBJECTIVE       UNIFIED BUSINESS INFRASTRUCTURE                 │
+│  CONTAINMENT     STABLE                                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+**Axiom** is a modular, multi-tenant ERP platform designed around extensibility, tenant isolation, permissions, and independently configurable business capabilities.
+
+```text
+                   ┌───────────────┐
+                   │     AXIOM     │
+                   └───────┬───────┘
                            │
-                 ┌─────────┴─────────┐
-                 │     PLATFORM      │
-                 │                   │
-                 │ Auth • Tenancy    │
-                 │ RBAC • Billing    │
-                 │ Analytics • Audit │
-                 └─────────┬─────────┘
+                    ┌──────▼──────┐
+                    │   PLATFORM  │
+                    └──────┬──────┘
                            │
-                    MODULE REGISTRY
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-         CRM           INVENTORY        ACCOUNTING
-          │                │                │
-        SALES           PROJECTS          HR
-          │                │                │
-          └────────────────┼────────────────┘
+             ┌─────────────┼─────────────┐
+             │             │             │
+           CRM         INVENTORY      FINANCE
+             │             │             │
+          PROJECTS       SALES           HR
+             │             │             │
+             └─────────────┼─────────────┘
                            │
                     TENANT CONFIG
                            │
-                  DYNAMIC NAVIGATION
+                    DYNAMIC SYSTEM
 ```
 
-### Core idea
+> **One platform. Different organizations. Different configurations.**
 
-```text
-Global Module Registry
-          ↓
-Tenant Module Configuration
-          ↓
-Permissions + RLS
-          ↓
-Dynamic Navigation
-          ↓
-Independent Business Modules
-```
-
-### Modules
-
-`CRM` `Inventory` `Sales` `Projects` `Accounting` `Payroll` `HR`
-
-`Documents` `Calendar` `Notifications` `Reports` `Analytics`
-
-`Education` `Healthcare` `Construction` `Legal` `Vehicle Management`
-
-> **The goal:** add business capabilities without rewriting the core platform.
-
-[→ Explore AXIOM](https://github.com/vxssroott/Axiom)
+`[ ACCESS EXPERIMENT → AXIOM ]`
 
 ---
 
-# 🏦 STARCORE
-
-### The Next Generation of Banking
-
-StarCore is a digital banking ecosystem designed around secure, intelligent and premium financial experiences.
+# `🧬 EXPERIMENT 002 // STARCORE`
 
 ```text
-                      STARCORE
-                          │
-           ┌──────────────┼──────────────┐
-           │              │              │
-        MOBILE           WEB         OPERATIONS
-           │              │              │
-           └──────────────┼──────────────┘
-                          │
-                   CORE BANKING
-                          │
-           ┌──────────────┼──────────────┐
-           │              │              │
-        PAYMENTS        CARDS         ACCOUNTS
-           │              │              │
-           └──────────────┼──────────────┘
-                          │
-               SECURITY • RISK • FRAUD
-                          │
-                         AI
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  CODENAME        STARCORE                                        │
+│  CATEGORY        FINANCIAL INFRASTRUCTURE                        │
+│  OBJECTIVE       NEXT-GENERATION DIGITAL BANKING                 │
+│  RISK LEVEL      HIGH                                            │
+│  CONTAINMENT     ACTIVE                                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-### Core areas
+StarCore explores the architecture behind a modern digital banking ecosystem.
 
-* Customer mobile banking
-* Customer web banking
-* Internal operations
-* Accounts & wallets
-* Transfers
-* Payments
-* Cards
-* Savings
-* Spending analytics
-* AI banking assistant
-* Fraud detection
-* Risk monitoring
-* Compliance
-* Audit & reporting
+```text
+                     STARCORE
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+        MOBILE          WEB       OPERATIONS
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                   CORE SYSTEM
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       PAYMENTS       CARDS        ACCOUNTS
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                RISK / FRAUD / AI
+```
 
-> **Banking software should disappear. Money should simply work.**
+> **Money is just data until the system decides what it means.**
 
-[→ Explore StarCore](https://github.com/vxssroott/starcore)
+`[ ACCESS EXPERIMENT → STARCORE ]`
 
 ---
 
-# 🦀 RUSKEY
+# `🧬 EXPERIMENT 003 // RUSKEY`
 
-### A Monkey Interpreter Written in Rust
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  CODENAME        RUSKEY                                          │
+│  CATEGORY        LANGUAGE RUNTIME                                │
+│  MATERIAL        RUST                                            │
+│  OBJECTIVE       UNDERSTAND THE MACHINE                          │
+│  CONTAINMENT     STABLE                                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-Ruskey is an implementation of the Monkey programming language, built as an exploration of interpreter construction, parsing, runtime design and idiomatic Rust.
+A Monkey interpreter implemented in Rust.
 
 ```text
 SOURCE
@@ -199,174 +215,147 @@ AST
 EVALUATOR
   │
   ▼
-OBJECT SYSTEM
-  │
-  ▼
-ENVIRONMENT
+RUNTIME
   │
   ▼
 REPL
 ```
 
-Exploring:
+> **If you want to understand a language, build the machine that executes one.**
 
-* Lexical analysis
-* Pratt parsing
-* Abstract syntax trees
-* Expression evaluation
-* Functions & closures
-* Environments
-* Runtime objects
-* Rust ownership & type design
-
-> Sometimes the best way to understand a language is to build one.
-
-[→ Explore Ruskey](https://github.com/vxssroott/Ruskey-1)
+`[ ACCESS EXPERIMENT → RUSKEY ]`
 
 ---
 
-# 🐍 VIPER-01
-
-### Red Team Operations Platform
-
-Viper is a red-team platform designed for adversary simulation and cybersecurity assessment.
+# `🧬 EXPERIMENT 004 // VIPER-01`
 
 ```text
-                         VIPER
-                           │
-                ┌──────────┴──────────┐
-                │                     │
-             OPERATOR                AGENT
-                │                     │
-                └──────────┬──────────┘
-                           │
-                     ORCHESTRATION
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-           MODULES      AUTOMATION      LLM
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                    TARGET ENVIRONMENT
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  CODENAME        VIPER-01                                        │
+│  CATEGORY        ADVERSARIAL RESEARCH                            │
+│  OBJECTIVE       RED TEAM OPERATIONS                             │
+│  THREAT LEVEL    ELEVATED                                        │
+│  CONTAINMENT     DO NOT RELEASE                                  │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-### Capabilities
+Viper-01 is a red-team platform for adversary simulation and security research.
 
-* Multi-platform operations
-* MITRE ATT&CK-oriented tooling
-* 100+ post-exploitation modules
-* LLM agent integration
-* Automated workflows
-* Custom Python modules
-* Pivot graph
-* Team collaboration
-* Security assessment tooling
-* Defense-evasion research
+```text
+                    VIPER-01
+                       │
+              ┌────────┴────────┐
+              │                 │
+           OPERATOR            AGENT
+              │                 │
+              └────────┬────────┘
+                       │
+                  ORCHESTRATOR
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+       MODULES      AUTOMATION      LLM
+          │            │            │
+          └────────────┼────────────┘
+                       │
+                  TARGET SYSTEM
+```
 
-[→ Explore Viper-01](https://github.com/vxssroott/Viper-01)
+> **Defenders need to understand how attackers think.**
+
+`[ ACCESS EXPERIMENT → VIPER-01 ]`
 
 ---
 
-# 🔬 RESEARCH INTERESTS
+# `🧪 ACTIVE RESEARCH`
 
 ```text
-SYSTEMS ENGINEERING        ████████████████████
-SOFTWARE ARCHITECTURE      ████████████████████
-CYBERSECURITY              ██████████████████
-FINANCIAL INFRASTRUCTURE   ███████████████████
-PROGRAMMING LANGUAGES      █████████████████
-AI SYSTEMS                 █████████████████
-DISTRIBUTED SYSTEMS        █████████████████
-DEVELOPER INFRASTRUCTURE   ███████████████████
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [01] SYSTEM ARCHITECTURE          ████████████████████      │
+│  [02] DISTRIBUTED SYSTEMS          ██████████████████        │
+│  [03] AI SYSTEMS                   █████████████████         │
+│  [04] CYBERSECURITY                ███████████████████       │
+│  [05] FINANCIAL INFRASTRUCTURE     ██████████████████        │
+│  [06] PROGRAMMING LANGUAGES        ████████████████          │
+│  [07] DEVELOPER INFRASTRUCTURE     █████████████████         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# ⚙️ TECHNOLOGY
+# `⚙️ TECHNOLOGY MATRIX`
 
-### Languages
+<div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge\&logo=rust)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Systems & Infrastructure
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-
-### Web
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+</div>
 
 ---
 
-# 🧠 ENGINEERING PHILOSOPHY
+# `🧠 OPERATING PRINCIPLES`
 
 ```text
-01. Understand the system.
-
-02. Reduce the problem.
-
-03. Find the fundamental constraint.
-
-04. Build from first principles.
-
-05. Measure.
-
-06. Break it.
-
-07. Understand the failure.
-
-08. Fix the architecture.
-
-09. Scale the system.
-
-10. Repeat.
-```
-
-> **Build > Talk**
-
-> **Understanding > Memorisation**
-
-> **First Principles > Cargo Cult**
-
-> **Architecture > Patches**
-
-> **Failure > Fear**
-
----
-
-# ☢️ LAB PROTOCOL
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║  CURIOSITY IS THE PRIMARY POWER SOURCE.                 ║
-║                                                          ║
-║  FAILURE IS DATA.                                        ║
-║                                                          ║
-║  COMPLEXITY MUST JUSTIFY ITS EXISTENCE.                  ║
-║                                                          ║
-║  EVERY SYSTEM HAS A FUNDAMENTAL MODEL.                  ║
-║                                                          ║
-║  UNDERSTAND IT.                                          ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  01  UNDERSTAND BEFORE ABSTRACTING                           │
+│                                                              │
+│  02  BUILD BEFORE ANNOUNCING                                 │
+│                                                              │
+│  03  MEASURE BEFORE OPTIMIZING                               │
+│                                                              │
+│  04  BREAK THINGS TO UNDERSTAND THEM                         │
+│                                                              │
+│  05  COMPLEXITY MUST EARN ITS PLACE                          │
+│                                                              │
+│  06  ARCHITECTURE > PATCHES                                  │
+│                                                              │
+│  07  FIRST PRINCIPLES > CARGO CULT                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 📊 GITHUB TELEMETRY
+# `☣️ LABORATORY LOG`
+
+```text
+[LOG 001] New architecture proposed.
+         └── immediately became larger than expected.
+
+[LOG 002] System compiled.
+         └── suspicious.
+
+[LOG 003] System passed tests.
+         └── investigate further.
+
+[LOG 004] New abstraction introduced.
+         └── WHY?
+
+[LOG 005] Production architecture redesigned.
+         └── acceptable.
+
+[LOG 006] Another impossible idea discovered.
+         └── experiment initiated.
+```
+
+---
+
+# `📡 GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -374,9 +363,7 @@ DEVELOPER INFRASTRUCTURE   █████████████████�
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxssroott&layout=compact&theme=transparent&hide_border=true&langs_count=8">
 
-</div>
-
-<div align="center">
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vxssroott&theme=transparent&hide_border=true">
 
@@ -384,23 +371,25 @@ DEVELOPER INFRASTRUCTURE   █████████████████�
 
 ---
 
-# 🛰️ PINNED EXPERIMENTS
+# `🔐 ACCESS TERMINAL`
 
-<div align="center">
-
-[![Axiom](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=Axiom\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/Axiom)
-
-[![StarCore](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=starcore\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/starcore)
-
-[![Ruskey](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=Ruskey-1\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/Ruskey-1)
-
-[![Viper](https://github-readme-stats.vercel.app/api/pin/?username=vxssroott\&repo=Viper-01\&theme=transparent\&hide_border=true)](https://github.com/vxssroott/Viper-01)
-
-</div>
-
----
-
-# 📡 TERMINAL
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║  USER: vxssroott                                         ║
+║                                                          ║
+║  ACCESS LEVEL: ████████████████████ ROOT                ║
+║                                                          ║
+║  FACILITY: VOSS RESEARCH LABORATORY                     ║
+║                                                          ║
+║  EXPERIMENTS: 04                                        ║
+║                                                          ║
+║  CONTAINMENT: NOMINAL                                   ║
+║                                                          ║
+║  EXIT: NOT RECOMMENDED                                  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ```bash
 $ git clone https://github.com/vxssroott
@@ -416,28 +405,27 @@ Viper-01/
 
 $ ./laboratory
 
-[+] Initializing systems...
+[+] Initializing...
 [+] Loading experiments...
-[+] Compiling architectures...
-[+] Running dangerous amounts of caffeine...
+[+] Checking containment...
+[+] Compiling...
+[+] Something is smoking...
+
+[!] UNKNOWN ERROR
+
+> Ignore it.
 
 [✓] LABORATORY ONLINE
-
-> There is still much to build.
 ```
 
 ---
 
 <div align="center">
 
-## `⚠️ SYSTEM STATUS`
+# `⚠️ THERE IS STILL MUCH TO BUILD.`
 
-### `THE LABORATORY IS OPERATIONAL.`
+### `BUILD • BREAK • UNDERSTAND • REBUILD`
 
-**BUILD • BREAK • UNDERSTAND • REBUILD**
-
-<br>
-
-`VOSS // SYSTEMS LABORATORY`
+`VOSS // RESEARCH FACILITY`
 
 </div>
