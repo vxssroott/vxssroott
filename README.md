@@ -551,35 +551,53 @@ Understand **why the system behaves the way it does.**
 
 # 📡 CONTACT
 
-### Session
+<div align="center">
 
-For private communication:
+### `PRIVATE CHANNELS`
 
-```text
-SESSION ID
+**For direct communication, use Session.**
 
-0585f9bc8380f3137b68d2403611413392ad8bb7ce6464acd7f87456ac4740074f
-```
+<br>
 
-New to Session?
+![Session](https://img.shields.io/badge/SESSION-PRIVATE-00FF66?style=for-the-badge\&labelColor=050505)
 
-```text
-INSTALL SESSION
-      ↓
-CREATE / OPEN ACCOUNT
-      ↓
-NEW MESSAGE
-      ↓
-ADD CONTACT
-      ↓
-PASTE SESSION ID
-      ↓
-SEND MESSAGE
-```
+<br><br>
 
-### GitHub
+`0585f9bc8380f3137b68d2403611413392ad8bb7ce6464acd7f87456ac4740074f`
 
-`github.com/vxssroott`
+<br><br>
+
+**SESSION ID**
+
+</div>
+
+---
+
+### `SESSION`
+
+Privacy-oriented communication for conversations that don't belong in public channels.
+
+If you're already on Session, add the ID above as a contact.
+
+If you're not, install **Session**, create an account, and use **New Message → Add Contact**.
+
+---
+
+### `GITHUB`
+
+**`vxssroott`**
+
+Code, experiments, systems research and everything currently being engineered.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-@vxssroott-00FF66?style=for-the-badge\&logo=github\&logoColor=black\&labelColor=050505)](https://github.com/vxssroott)
+
+<br><br>
+
+`PUBLIC CODE • PRIVATE COMMUNICATION • ACTIVE ENGINEERING`
+
+</div>
 
 ---
 
