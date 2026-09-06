@@ -459,7 +459,64 @@ Security interests include:
 
 `Adversarial Simulation`
 
----
+# ☠️ OFFENSIVE SECURITY & MALWARE ENGINEERING
+
+A significant portion of my work lives on the **offensive side of cybersecurity** — not as a collection of random tooling, but as an engineering discipline for understanding how malicious software is constructed, executed, analyzed and detected.
+
+My GitHub contains a substantial body of **malware-development research, adversarial experiments and low-level security projects**, alongside conventional systems and infrastructure work.
+
+### `RESEARCH TERRAIN`
+
+`MALWARE DEVELOPMENT` · `MALWARE ANALYSIS` · `REVERSE ENGINEERING`
+`BINARY ANALYSIS` · `PE / ELF` · `PROCESS ARCHITECTURE`
+`MEMORY BEHAVIOR` · `EXECUTION FLOW` · `PAYLOAD ARCHITECTURE`
+`ANTI-ANALYSIS RESEARCH` · `SANDBOX BEHAVIOR` · `TELEMETRY`
+`THREAT MODELING` · `DETECTION ENGINEERING` · `ADVERSARIAL SIMULATION`
+
+### `THE OFFENSIVE ↔ DEFENSIVE LOOP`
+
+```text
+UNDERSTAND
+    ↓
+REPRODUCE
+    ↓
+ANALYZE
+    ↓
+MEASURE
+    ↓
+DETECT
+    ↓
+HARDEN
+    ↓
+VERIFY
+```
+
+I study offensive capabilities because understanding an attack surface at the implementation level produces better defensive engineering.
+
+That means looking beyond the label **“malware”** and understanding the underlying mechanics:
+
+`EXECUTION` · `PROCESSES` · `MEMORY` · `FILESYSTEMS` · `NETWORKING`
+`BINARY STRUCTURES` · `SYSTEM INTERFACES` · `TELEMETRY` · `TRUST BOUNDARIES`
+
+> **The objective isn't to romanticize malicious software.**
+>
+> **It's to understand what it does, why it works, how it behaves, and how systems can be engineered to withstand it.**
+
+### `GITHUB REALITY`
+
+My repository history reflects that philosophy.
+
+There are conventional applications.
+There are infrastructure projects.
+There are experiments.
+There are systems projects.
+
+And then there is a **lot of security research.** 🥷
+
+That's intentional.
+
+**I learn systems by building them — including the systems designed to break them.**
+----
 
 # 🧠 ENGINEERING MINDSET
 
