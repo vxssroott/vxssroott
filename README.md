@@ -1,362 +1,195 @@
 <div align="center">
 
-# 𝕍𝕆𝕊𝕊 🥷
-
-## ⚙️ 𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥
-
-### Systems Engineer · Software Architect · AI Engineer · Malware Developer · Security Researcher · Automation Architect
-
-**Engineering across the stack — from machine-level execution and binary interfaces to distributed systems, AI infrastructure, security research, financial systems, and autonomous software.**
+<img src="https://raw.githubusercontent.com/vxssroott/vxssroott/main/assets/voss-hero.svg" alt="VOSS — Systems Engineering • AI • Security • Infrastructure" width="100%" />
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-vxssroott-0f172a?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vxssroott)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://python.org)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)](https://go.dev)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)](https://rust-lang.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://kernel.org)
+[![GitHub](https://img.shields.io/badge/GitHub-vxssroott-050505?style=for-the-badge\&logo=github\&logoColor=39ff14)](https://github.com/vxssroott)
+[![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge\&logo=python\&logoColor=39ff14)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-050505?style=for-the-badge\&logo=go\&logoColor=39ff14)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-050505?style=for-the-badge\&logo=rust\&logoColor=39ff14)](https://www.rust-lang.org/)
+[![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge\&logo=linux\&logoColor=39ff14)](https://kernel.org/)
 
 </div>
 
 ---
 
-# 🧠 ENGINEERING PROFILE
+# ⚙️ 𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥
 
-I am **Voss** — a systems engineer, software architect, security researcher, and independent technology builder working across **low-level computing, intelligent systems, infrastructure, cybersecurity, automation, and product engineering**.
+> **Systems Engineer · Malware Developer · AI Engineer · Security Researcher · Automation Architect**
 
-My work spans multiple abstraction layers:
+> Engineering low-level systems, intelligent infrastructure, security tooling, distributed services, automation pipelines, and software platforms.
+
+---
+
+## 🧠 About Me
+
+I'm **Voss** — a systems-focused engineer building across the boundaries of **software architecture, AI engineering, cybersecurity, low-level systems, automation, infrastructure, and product engineering.**
+
+I work from the **machine and operating-system layer upward**, with an interest in how components behave across the entire execution and data path.
+
+That means thinking about:
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    PRODUCT / PLATFORM                        │
-├──────────────────────────────────────────────────────────────┤
-│              AI · Automation · Intelligence                  │
-├──────────────────────────────────────────────────────────────┤
-│        Distributed Systems · APIs · Services · Data           │
-├──────────────────────────────────────────────────────────────┤
-│       Networking · Protocols · Messaging · IPC                │
-├──────────────────────────────────────────────────────────────┤
-│       OS Internals · Processes · Memory · Execution           │
-├──────────────────────────────────────────────────────────────┤
-│        Compilers · Runtimes · Binary Interfaces               │
-├──────────────────────────────────────────────────────────────┤
-│             Machine Architecture · Hardware                   │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I am interested in understanding **the entire execution path**, not just the abstraction presented by a framework.
-
----
-
-# 🔧 TECHNICAL STACK
-
-| Layer                        | Technologies / Domains                                                           |
-| :--------------------------- | :------------------------------------------------------------------------------- |
-| **Systems Programming**      | Rust · Go · C · C++ · Assembly · Python                                          |
-| **Shell / Automation**       | PowerShell · Bash · CLI tooling · scripting · orchestration                      |
-| **Operating Systems**        | Windows NT · Linux · process architecture · memory management                    |
-| **Binary / Execution**       | ELF · PE · ABI · executable formats · runtime behavior                           |
-| **Networking**               | TCP/IP · HTTP/2 · WebSockets · DNS · TLS · IPC · P2P architectures               |
-| **Backend**                  | FastAPI · REST · asynchronous services · service-oriented architectures          |
-| **Databases**                | PostgreSQL · SQLite · SQLAlchemy · transactional systems                         |
-| **AI Infrastructure**        | LLM APIs · RAG · agents · model routing · context engineering                    |
-| **Security**                 | Reverse Engineering · Malware Analysis · Threat Modeling · Detection Engineering |
-| **Cryptography**             | AES · RSA · ChaCha20 · TLS · PKI · cryptographic primitives                      |
-| **Infrastructure**           | Docker · Git · GitHub · CI/CD · Linux infrastructure                             |
-| **Frontend / Visualization** | React · HTML · Chart.js                                                          |
-| **Mobile**                   | Flutter · Dart                                                                   |
-| **Systems Domains**          | FinTech · Satellite Infrastructure · Mobility · Health-Tech                      |
-
----
-
-# ⚙️ SYSTEMS ENGINEERING
-
-I build software with an emphasis on:
-
-* deterministic execution
-* fault isolation
-* state management
-* concurrency
-* process orchestration
-* protocol design
-* API contracts
-* resource management
-* observability
-* telemetry
-* failure recovery
-* defensive boundaries
-* operational resilience
-* horizontal scalability
-
-I care about the machinery underneath the application:
-
-```text
-Process
-  ↓
-Runtime
-  ↓
-Memory
-  ↓
-System Calls
-  ↓
-Kernel
-  ↓
-Network / Storage / Hardware
-```
-
-The higher-level abstraction is only as strong as the primitives underneath it.
-
----
-
-# 🦠 MALWARE DEVELOPMENT & SECURITY RESEARCH
-
-**Malware development is part of my security-research discipline.**
-
-I study malicious software from both the **implementation and detection perspective**, including:
-
-* PE / ELF internals
-* process execution models
-* memory behavior
-* binary analysis
-* reverse engineering
-* payload architecture
-* persistence research
-* command-and-control concepts
-* sandbox-aware behavior
-* telemetry generation
-* detection engineering
-* behavioral analysis
-* threat modeling
-* adversarial simulation
-
-The objective is not simply to understand malware as a black box.
-
-It is to understand the **engineering assumptions, execution model, attack surface, observable behavior, and defensive countermeasures** surrounding it.
-
-> **You cannot engineer robust defenses against systems you refuse to understand.**
-
----
-
-# 🧬 LOW-LEVEL ENGINEERING
-
-I am particularly interested in the layers most developers rarely touch.
-
-```text
-Assembly
-   ↓
-Machine Instructions
-   ↓
-ABI / Calling Convention
-   ↓
-Executable Format
+Machine
    ↓
 Runtime
    ↓
 Operating System
    ↓
-Kernel Interfaces
+Processes / Memory / IPC
    ↓
-Hardware
+Protocols / Networking
+   ↓
+Services / APIs
+   ↓
+Data / State
+   ↓
+Distributed Systems
+   ↓
+AI / Intelligence
+   ↓
+Automation / Orchestration
+   ↓
+Product Infrastructure
 ```
 
-Areas of interest include:
+I don't just want software that *runs*.
 
-* memory models
-* executable formats
-* system calls
-* process models
-* threading
-* IPC
-* binary instrumentation
-* compiler pipelines
-* runtime internals
-* OS architecture
-* hardware/software boundaries
+I want systems that are **observable, deterministic, fault-aware, secure, maintainable, and architecturally coherent.**
 
 ---
 
-# 🌐 NETWORK & DISTRIBUTED SYSTEMS
+## 🔧 Stack
 
-I approach networking as an architectural primitive rather than simply a library dependency.
+| Layer              | Tech / Domain                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Languages**      | Python · Go · Rust · JavaScript · TypeScript · Dart · SQL                                              |
+| **Systems**        | Linux · Windows · Systems Programming · Process Architecture                                           |
+| **Execution**      | Runtime Internals · Memory Models · ABI · PE · ELF · WebAssembly                                       |
+| **Networking**     | TCP/IP · HTTP/HTTPS · HTTP/2 · WebSockets · TLS · IPC · P2P                                            |
+| **Backend**        | FastAPI · REST APIs · Async Services · API Gateways · Service Architecture                             |
+| **Data**           | PostgreSQL · SQLite · SQLAlchemy · Alembic · Transactional Systems                                     |
+| **AI**             | LLM APIs · RAG · Agents · Model Routing · Context Engineering · AI Memory                              |
+| **Security**       | Malware Development · Malware Analysis · Reverse Engineering · Threat Modeling · Detection Engineering |
+| **Automation**     | PowerShell · Bash · CI/CD · Repository Automation · Infrastructure Automation                          |
+| **Infrastructure** | Docker · Git · GitHub · Linux · Service Orchestration                                                  |
+| **Frontend**       | React · HTML · JavaScript · Chart.js                                                                   |
+| **Mobile**         | Flutter · Dart                                                                                         |
+| **Research**       | Compilers · Programming Languages · Satellite Systems · Financial Infrastructure                       |
 
-Areas include:
+---
 
-* TCP/IP
-* HTTP/HTTPS
-* HTTP/2
-* WebSockets
-* asynchronous I/O
-* service discovery
-* message transport
-* API gateways
-* distributed state
-* event-driven architectures
-* P2P systems
-* fault-tolerant communication
-* secure service-to-service communication
+## 🧩 Systems Engineering
 
-The interesting problem is not:
+My primary interest is **systems engineering across abstraction boundaries.**
 
-> **"Can two machines communicate?"**
+I work with architectures involving:
+
+* service decomposition
+* state machines
+* protocol contracts
+* process orchestration
+* asynchronous execution
+* fault isolation
+* structured telemetry
+* health/state management
+* API contracts
+* transactional integrity
+* deterministic behavior
+* observability
+* verification pipelines
+* recovery mechanisms
+
+The question is never simply:
+
+> **"Does it work?"**
 
 It's:
 
-> **"Can thousands of independently failing components communicate predictably while preserving system invariants?"**
+> **"What are the system invariants, where can they fail, and what happens when they do?"**
 
 ---
 
-# 🤖 AI & AUTONOMOUS SYSTEMS
+## 🦠 Malware Development & Security Research
 
-My AI work focuses on **AI as infrastructure**.
+**Malware Developer** is part of my technical profile.
 
-I explore:
+I study offensive software engineering alongside defensive security research, with particular interest in:
+
+* PE / ELF internals
+* process execution
+* memory behavior
+* binary analysis
+* reverse engineering
+* payload architecture
+* persistence research
+* command-and-control architectures
+* sandbox analysis
+* behavioral telemetry
+* threat modeling
+* detection engineering
+* adversarial simulation
+
+The goal is to understand malicious software at the **implementation, execution, behavioral, and architectural levels** — and use that understanding to build stronger defensive systems.
+
+> **Understand the adversary. Understand the system. Engineer the countermeasure.**
+
+---
+
+## 🤖 AI Engineering
+
+I treat AI as an **infrastructure problem**, not merely an API integration.
+
+Areas I work around include:
 
 * LLM orchestration
-* model routing
-* multi-model architectures
-* context engineering
-* RAG pipelines
-* persistent memory
-* autonomous agents
-* structured inference
-* AI gateways
-* intelligent decision systems
+* multi-model routing
 * model fallback strategies
-* AI verification
+* context engineering
+* retrieval pipelines
+* persistent memory
+* structured inference
+* agentic workflows
 * tool-using agents
+* AI gateways
+* verification layers
+* intelligent decision pipelines
 * AI-assisted engineering
 
-The goal is to move from:
-
-```text
-Prompt → Model → Response
-```
-
-toward:
+The architecture I'm interested in is closer to:
 
 ```text
 Input
- ↓
-Context Acquisition
- ↓
+  ↓
+Context
+  ↓
 Memory
- ↓
+  ↓
 Reasoning
- ↓
-Tool Invocation
- ↓
+  ↓
+Tools
+  ↓
 Verification
- ↓
+  ↓
 Decision
- ↓
+  ↓
 Execution
- ↓
+  ↓
 Telemetry
- ↓
-Feedback
+```
+
+rather than simply:
+
+```text
+Prompt → LLM → Response
 ```
 
 ---
 
-# 🛰️ EXTREME SYSTEMS
+## ⚙️ Automation Architecture
 
-I am interested in software operating under constraints where **correctness, resilience, and observability become first-class requirements**.
-
-This includes:
-
-* spacecraft software
-* telemetry infrastructure
-* autonomous systems
-* air-gapped systems
-* mission-oriented infrastructure
-* vendor-neutral platforms
-* real-time operational systems
-* fault-tolerant architectures
-
-### ORBITA
-
-A sovereign, vendor-neutral **satellite operations and intelligence software layer** focused on operational infrastructure, telemetry, state management, and system-level intelligence.
-
----
-
-# 💳 FINANCIAL SYSTEMS
-
-I am interested in financial infrastructure from the **ledger and transaction-engine level**.
-
-Areas include:
-
-* double-entry accounting
-* ledger architectures
-* transaction state machines
-* payment processing
-* settlement
-* reconciliation
-* account state
-* transactional integrity
-* audit trails
-* financial event processing
-* PostgreSQL-first architectures
-* core banking infrastructure
-
-The interface is the surface.
-
-**The ledger is the system.**
-
----
-
-# 🧬 COMPILERS & PROGRAMMING LANGUAGES
-
-I'm interested in the software that transforms software.
-
-Areas include:
-
-* lexical analysis
-* parsing
-* ASTs
-* intermediate representations
-* semantic analysis
-* compiler passes
-* code generation
-* runtimes
-* interpreters
-* domain-specific languages
-* WebAssembly
-* deterministic execution
-
-### SLIME
-
-A systems programming-language project exploring compiler infrastructure and WebAssembly-oriented execution.
-
----
-
-# 🧠 ENGINEERING INTELLIGENCE
-
-I am interested in making software repositories **machine-understandable**.
-
-This involves:
-
-* repository intelligence
-* semantic code analysis
-* dependency graphs
-* architectural mapping
-* codebase indexing
-* engineering memory
-* repository ingestion
-* AI-assisted code comprehension
-* system topology
-* developer intelligence
-
-### AXIOM
-
-**Engineering Memory Infrastructure** designed around transforming repositories into structured, queryable engineering knowledge.
-
----
-
-# 🏗️ AUTOMATION ARCHITECTURE
-
-I don't just automate repetitive commands.
-
-I design **automation pipelines**.
+I build automation around **systems and workflows**, not isolated scripts.
 
 ```text
 Trigger
@@ -376,81 +209,141 @@ Recovery
 
 Areas include:
 
-* infrastructure automation
-* deployment automation
-* repository automation
-* CI/CD
-* operational tooling
 * PowerShell automation
 * Bash automation
+* repository provisioning
+* build pipelines
+* deployment workflows
+* CI/CD
 * API orchestration
-* system provisioning
-* workflow engines
+* infrastructure automation
+* system validation
+* operational tooling
 
-> **Automate the system, not just the command.**
-
----
-
-# 🧩 SELECTED PROJECTS
-
-| Project             | Domain                     | Focus                                              |
-| :------------------ | :------------------------- | :------------------------------------------------- |
-| **ORBITA**          | 🛰️ Space Systems          | Satellite operations & intelligence infrastructure |
-| **Axiom**           | 🧠 Developer Intelligence  | Engineering memory & repository intelligence       |
-| **SLIME**           | 🧬 Compilers               | Systems programming language / WebAssembly         |
-| **StarCore**        | 💳 FinTech                 | Ledger & financial infrastructure                  |
-| **PersonalBrandOS** | 🤖 AI SaaS                 | Creator intelligence & multi-model AI              |
-| **IRS**             | 🔬 Research Infrastructure | Intelligence & software-system analysis            |
+> **Automate what others repeatedly execute manually.**
 
 ---
 
-# 🛡️ SECURITY MINDSET
+## 🌐 Distributed & Networked Systems
 
-Security isn't a feature added at the end of development.
+I am interested in the engineering problems behind networked software:
 
-It is part of the system model.
+* TCP/IP
+* HTTP/2
+* WebSockets
+* TLS
+* asynchronous I/O
+* service discovery
+* API gateways
+* distributed state
+* event-driven architectures
+* inter-process communication
+* P2P architectures
+* service-to-service communication
+* fault-tolerant systems
+* telemetry and observability
 
-```text
-Threat Model
-     ↓
-Attack Surface
-     ↓
-Trust Boundaries
-     ↓
-Authentication
-     ↓
-Authorization
-     ↓
-Input Validation
-     ↓
-Isolation
-     ↓
-Telemetry
-     ↓
-Detection
-     ↓
-Response
-```
+The difficult part isn't making services communicate.
 
-I think about systems from both sides:
-
-**How can this architecture be broken?**
-
-and
-
-**How should the architecture respond when someone tries?**
+The difficult part is maintaining **correctness when networks, processes, dependencies, and state can fail independently.**
 
 ---
 
-# 🧠 ENGINEERING PHILOSOPHY
+## 💳 Financial Infrastructure
+
+I am interested in financial systems at the **ledger, transaction, and infrastructure layers**.
+
+Areas include:
+
+* double-entry ledger architecture
+* transaction state machines
+* payment processing
+* settlement
+* reconciliation
+* account state
+* transactional integrity
+* auditability
+* financial event processing
+* core banking infrastructure
+* PostgreSQL-first architectures
+
+**The interface is the surface. The ledger is the system.**
+
+---
+
+## 🛰️ Mission-Critical & Extreme Systems
+
+I am particularly interested in software operating under constraints where **reliability, state integrity, observability, and failure handling are first-class concerns.**
+
+Areas include:
+
+* satellite software
+* telemetry infrastructure
+* autonomous systems
+* operational control layers
+* air-gapped environments
+* vendor-neutral infrastructure
+* real-time systems
+* fault-tolerant architectures
+* mission-oriented software
+
+---
+
+## 🧬 Compilers & Language Engineering
+
+I am interested in the machinery responsible for transforming and executing software.
+
+That includes:
+
+* lexical analysis
+* parsing
+* ASTs
+* semantic analysis
+* intermediate representations
+* compiler passes
+* code generation
+* interpreters
+* runtimes
+* domain-specific languages
+* WebAssembly
+* deterministic execution
+
+Understanding software becomes a different game when you understand **how the machine eventually executes it.**
+
+---
+
+## 🧠 Engineering Intelligence
+
+Another major area of interest is transforming software repositories into **structured engineering knowledge.**
+
+That includes:
+
+* repository intelligence
+* codebase indexing
+* semantic code analysis
+* dependency graphs
+* architectural topology
+* engineering memory
+* repository ingestion
+* system mapping
+* AI-assisted code comprehension
+* developer intelligence
+
+The objective:
+
+> **Turn a repository from a directory tree into a model of the system it represents.**
+
+---
+
+## 🛡️ Engineering Philosophy
 
 > **Build systems that outlast their creators.**
-
-> **Automate what others script.**
 
 > **Understand what others abstract.**
 
 > **Measure what others assume.**
+
+> **Automate what others script.**
 
 > **Harden what others ignore.**
 
@@ -458,47 +351,70 @@ and
 
 ---
 
-# ⚡ CURRENT MODE
+## 📌 Pinned Repositories
 
-```text
-🟢 SYSTEM STATUS: ACTIVE DEVELOPMENT
-
-Systems Engineering       ████████████████████
-Security Research         ███████████████████░
-AI Engineering            ███████████████████░
-Automation                ████████████████████
-Backend Architecture      ████████████████████
-Low-Level Engineering     █████████████████░░░
-Distributed Systems       █████████████████░░░
-Compiler Engineering      ████████████████░░░░
-Infrastructure             █████████████████░░░
-Product Engineering       ███████████████████░
-```
+> **My work speaks for itself. Scroll down.**
 
 ---
 
-# 📡 CONTACT
+## 📡 Communication
 
-* **GitHub:** [github.com/vxssroott](https://github.com/vxssroott)
-* **Telegram:** [@vxssroott](https://t.me/vxssroott)
+### Session
+
+For private communication, I use **Session**.
+
+If you don't already use Session:
+
+1. Install the **Session** messaging application.
+2. Create your Session account.
+3. Open **New Message / Add Contact**.
+4. Paste my Session ID.
+5. Send the message.
+
+### 🔐 Session ID
+
+```text
+0585f9bc8380f3137b68d2403611413392ad8bb7ce6464acd7f87456ac4740074f
+```
+
+> **Session is preferred for private communication.**
+
+---
+
+## ⚡ Status
+
+```text
+🟢 ACTIVE DEVELOPMENT
+
+Systems Engineering        ████████████████████
+AI Engineering             ███████████████████░
+Security Research          ███████████████████░
+Malware Development        █████████████████░░░
+Automation Architecture    ████████████████████
+Backend Engineering        ████████████████████
+Low-Level Engineering      █████████████████░░░
+Distributed Systems        █████████████████░░░
+Compiler Engineering       ████████████████░░░░
+Infrastructure              █████████████████░░░
+```
 
 ---
 
 <div align="center">
 
-# 𝕍𝕆𝕊𝕊 🥷
-
-### Systems Engineer · Malware Developer · AI Engineer · Security Researcher · Automation Architect
-
-**𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 ⚙️**
+<img src="https://raw.githubusercontent.com/vxssroott/vxssroott/main/assets/voss-footer.svg" alt="VOSS — Systems Intelligence Security Infrastructure" width="100%" />
 
 <br />
 
-### BUILD · BREAK · UNDERSTAND · ENGINEER · REPEAT
+### 𝕍𝕆𝕊𝕊 🥷
 
-<sub>
-Software · Intelligence · Security · Infrastructure · Systems
-</sub>
+**Systems Engineer · Malware Developer · AI Engineer · Security Researcher · Automation Architect**
+
+### 𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 ⚙️
+
+<br />
+
+<sub>BUILD · BREAK · UNDERSTAND · ENGINEER · REPEAT</sub>
 
 <br /><br />
 
