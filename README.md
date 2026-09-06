@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥷 𝕍𝕠𝕤𝕤
+# 𝕍𝕠𝕤𝕤🥷
 
 ## ⚙️ 𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥
 
@@ -511,38 +511,76 @@ SEND MESSAGE
 
 ---
 
-# 🟢 SYSTEM STATUS
+# 🧭 CURRENT VECTOR
+
+<div align="center">
+
+![Systems](https://img.shields.io/badge/SYSTEMS_ENGINEERING-00FF66?style=for-the-badge\&labelColor=050505)
+![AI](https://img.shields.io/badge/AI_INFRASTRUCTURE-00FF66?style=for-the-badge\&labelColor=050505)
+![Security](https://img.shields.io/badge/SECURITY_RESEARCH-00FF66?style=for-the-badge\&labelColor=050505)
+![Malware](https://img.shields.io/badge/MALWARE_RESEARCH-00FF66?style=for-the-badge\&labelColor=050505)
+![Automation](https://img.shields.io/badge/AUTOMATION_ARCHITECTURE-00FF66?style=for-the-badge\&labelColor=050505)
+
+<br>
+
+`LOW-LEVEL SYSTEMS` · `AI ORCHESTRATION` · `REVERSE ENGINEERING` · `DISTRIBUTED INFRASTRUCTURE`
+
+</div>
+
+---
+
+### `BUILD`
+
+Systems that operate beneath the abstraction layer.
+
+### `RESEARCH`
+
+Execution paths, binary behavior, adversarial surfaces, intelligent systems and machine-scale automation.
+
+### `ENGINEER`
+
+Infrastructure designed around **correctness, observability, resilience, security and controlled complexity.**
+
+### `EXPLORE`
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                 V O S S   //   N O D E                   ║
-║                                                          ║
-║  STATUS       : ● ONLINE                                 ║
-║  MODE         : ACTIVE DEVELOPMENT                       ║
-║  SPECIALTY    : SYSTEMS / AI / SECURITY                  ║
-║  ENVIRONMENT  : WINDOWS / LINUX                          ║
-║  ARCHITECTURE : DISTRIBUTED / AUTONOMOUS                 ║
-║  STATE        : BUILDING                                 ║
-║                                                          ║
-║  BUILD • BREAK • UNDERSTAND • REBUILD                    ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+SYSTEMS
+   ├── RUNTIME INTERNALS
+   ├── NETWORK ARCHITECTURE
+   ├── DISTRIBUTED COMPUTING
+   └── LOW-LEVEL SOFTWARE
+
+INTELLIGENCE
+   ├── LLM INFRASTRUCTURE
+   ├── AGENT ARCHITECTURES
+   ├── MEMORY / RETRIEVAL
+   └── AUTONOMOUS WORKFLOWS
+
+SECURITY
+   ├── MALWARE DEVELOPMENT
+   ├── REVERSE ENGINEERING
+   ├── BINARY ANALYSIS
+   └── DETECTION ENGINEERING
+
+INFRASTRUCTURE
+   ├── FINANCIAL SYSTEMS
+   ├── MISSION-CRITICAL SOFTWARE
+   ├── AUTOMATION
+   └── ENGINEERING INTELLIGENCE
 ```
 
 <div align="center">
 
-### ⚙️ `BUILD • BREAK • UNDERSTAND • REBUILD`
+### **𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 ⚙️**
+
+`BUILD • BREAK • UNDERSTAND • REBUILD`
 
 <br>
 
-![Active](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00FF66?style=for-the-badge\&labelColor=050505)
-![Systems](https://img.shields.io/badge/ENGINEERING-SYSTEMS-00FF66?style=for-the-badge\&labelColor=050505)
-![Security](https://img.shields.io/badge/RESEARCH-SECURITY-00FF66?style=for-the-badge\&labelColor=050505)
-![AI](https://img.shields.io/badge/ARCHITECTURE-AI-00FF66?style=for-the-badge\&labelColor=050505)
-
-<br>
-
-`SYSTEMS` • `INTELLIGENCE` • `SECURITY` • `INFRASTRUCTURE`
+![GitHub](https://img.shields.io/badge/GITHUB-vxssroott-111111?style=flat-square\&logo=github\&logoColor=00FF66)
+![Rust](https://img.shields.io/badge/RUST-111111?style=flat-square\&logo=rust\&logoColor=00FF66)
+![Go](https://img.shields.io/badge/GO-111111?style=flat-square\&logo=go\&logoColor=00FF66)
+![Python](https://img.shields.io/badge/PYTHON-111111?style=flat-square\&logo=python\&logoColor=00FF66)
+![Linux](https://img.shields.io/badge/LINUX-111111?style=flat-square\&logo=linux\&logoColor=00FF66)
 
 </div>
