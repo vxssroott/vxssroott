@@ -1,233 +1,266 @@
 <div align="center">
 
-<a href="https://github.com/vxssroott">
-<img src="https://raw.githubusercontent.com/vxssroott/vxssroott/main/assets/voss-hero.svg" width="100%" alt="Voss — Systems Engineer"/>
-</a>
+# 🥷 𝕍𝕠𝕤𝕤
+
+## ⚙️ 𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥
+
+### **Systems Engineer · AI Systems Architect · Malware Developer · Security Researcher · Automation Architect · Distributed Systems Engineer**
+
+> **Engineering below the abstraction layer.**
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEMS_ENGINEERING-00FF66?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI_ENGINEERING-00FF66?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/SECURITY_RESEARCH-00FF66?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/AUTOMATION-00FF66?style=for-the-badge&logo=githubactions&logoColor=black"/>
+![Systems](https://img.shields.io/badge/SYSTEMS_ENGINEERING-00FF66?style=for-the-badge\&logo=linux\&logoColor=black)
+![AI](https://img.shields.io/badge/AI_INFRASTRUCTURE-00FF66?style=for-the-badge\&logo=openai\&logoColor=black)
+![Security](https://img.shields.io/badge/SECURITY_RESEARCH-00FF66?style=for-the-badge\&logo=hackthebox\&logoColor=black)
+![Malware](https://img.shields.io/badge/MALWARE_DEVELOPMENT-00FF66?style=for-the-badge\&logo=target\&logoColor=black)
+![Automation](https://img.shields.io/badge/AUTOMATION-00FF66?style=for-the-badge\&logo=githubactions\&logoColor=black)
 
-<br><br>
+<br>
 
-# ⚙️ 𝕌𝕟𝕕𝕖𝕣 𝔸𝕔𝕥𝕚𝕧𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥
-
-### Systems Engineer · Malware Developer · AI Engineer · Automation Architect
-
-> **Engineering below the abstraction layer.**
+![GitHub](https://img.shields.io/badge/GITHUB-vxssroott-111111?style=flat-square\&logo=github\&logoColor=00FF66)
+![Linux](https://img.shields.io/badge/LINUX-111111?style=flat-square\&logo=linux\&logoColor=00FF66)
+![Windows](https://img.shields.io/badge/WINDOWS-111111?style=flat-square\&logo=windows\&logoColor=00FF66)
+![Rust](https://img.shields.io/badge/RUST-111111?style=flat-square\&logo=rust\&logoColor=00FF66)
+![Go](https://img.shields.io/badge/GO-111111?style=flat-square\&logo=go\&logoColor=00FF66)
+![Python](https://img.shields.io/badge/PYTHON-111111?style=flat-square\&logo=python\&logoColor=00FF66)
 
 </div>
 
 ---
 
-## 🥷 `IDENTITY`
+# 🧠 ABOUT ME
 
-I build systems from the **machine upward**.
+I am a **Systems Engineer, AI Systems Architect, Security Researcher, Malware Developer, Automation Architect and Distributed Systems Engineer** focused on building software across the boundary between application logic, infrastructure, operating-system behavior and machine execution.
 
-My work spans low-level software engineering, AI infrastructure, security research, automation, distributed systems, financial infrastructure, compilers, networking and mission-critical software.
+My engineering interests span:
 
-I am less interested in simply *using* abstractions and more interested in understanding what happens **underneath them**.
-
-```text
-                    ┌─────────────────────────┐
-                    │          V O S S        │
-                    │   ENGINEERING INTERFACE │
-                    └────────────┬────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             ▼                   ▼                   ▼
-        ┌──────────┐       ┌──────────┐       ┌──────────┐
-        │ SYSTEMS  │       │   AI     │       │ SECURITY │
-        └────┬─────┘       └────┬─────┘       └────┬─────┘
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                ▼
-                    ┌──────────────────────┐
-                    │   INFRASTRUCTURE     │
-                    │ NETWORKS • SERVICES  │
-                    │ RUNTIMES • DATA      │
-                    └──────────┬───────────┘
-                               ▼
-                    ┌──────────────────────┐
-                    │ MACHINE / EXECUTION  │
-                    └──────────────────────┘
-```
-
----
-
-# 🔧 `STACK`
-
-<table>
-<tr>
-<th>Layer</th>
-<th>Technologies</th>
-</tr>
-
-<tr>
-<td><b>Systems</b></td>
-<td>Rust · Go · C · Python · PowerShell · Bash</td>
-</tr>
-
-<tr>
-<td><b>Runtime / OS</b></td>
-<td>Windows NT · Linux · ELF · PE · Processes · Memory · IPC · WebAssembly</td>
-</tr>
-
-<tr>
-<td><b>Networking</b></td>
-<td>TCP/IP · HTTP/1.1 · HTTP/2 · WebSockets · TLS · P2P · RPC · Network Services</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>FastAPI · REST · Async Services · API Gateways · Event-Driven Architecture</td>
-</tr>
-
-<tr>
-<td><b>Data</b></td>
-<td>PostgreSQL · SQLite · SQLAlchemy · Alembic · Data Pipelines</td>
-</tr>
-
-<tr>
-<td><b>Artificial Intelligence</b></td>
-<td>LLMs · RAG · Agents · Model Routing · AI Memory · Context Engineering · Inference Pipelines</td>
-</tr>
-
-<tr>
-<td><b>Security</b></td>
-<td>Malware Development · Malware Analysis · Reverse Engineering · Threat Modeling · Detection Engineering</td>
-</tr>
-
-<tr>
-<td><b>Cryptography</b></td>
-<td>AES · RSA · ChaCha20 · TLS · PKI · Secure Communications</td>
-</tr>
-
-<tr>
-<td><b>Automation</b></td>
-<td>PowerShell · Bash · GitHub Actions · CI/CD · Infrastructure Automation</td>
-</tr>
-
-<tr>
-<td><b>Infrastructure</b></td>
-<td>Docker · Git · GitHub · Linux Services · Distributed Systems · Service Orchestration</td>
-</tr>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>React · JavaScript · TypeScript · HTML · Chart.js</td>
-</tr>
-
-<tr>
-<td><b>Mobile</b></td>
-<td>Flutter · Dart</td>
-</tr>
-
-<tr>
-<td><b>Language Engineering</b></td>
-<td>Compilers · Interpreters · Programming Languages · WebAssembly · Execution Models</td>
-</tr>
-
-</table>
-
----
-
-# 🧠 `FOCUS AREAS`
-
-### ⚙️ Systems Engineering
-
-Operating-system internals, process execution, memory behavior, binary formats, runtime architecture, systems programming and infrastructure.
-
-```text
-USERSPACE → RUNTIME → OS → KERNEL → HARDWARE
-```
-
-I like understanding the entire chain.
-
----
-
-### 🧬 AI Engineering
-
-Building AI as **infrastructure**, not merely as a chatbot.
-
-```text
-MODELS
-  ↓
-ROUTING
-  ↓
-CONTEXT
-  ↓
-MEMORY
-  ↓
-RETRIEVAL
-  ↓
-TOOLS
-  ↓
-AGENTS
-  ↓
-DECISION SYSTEMS
-```
-
-Areas of interest include LLM orchestration, persistent AI memory, retrieval systems, agent architectures, model fallback/routing, context engineering and intelligent automation.
-
----
-
-### 🥷 Malware Development & Security Research
-
-Researching how malicious software behaves across the execution stack, including binary structure, process behavior, memory, persistence concepts, reverse engineering and adversarial techniques.
-
-Also interested in:
-
+* Low-level systems programming
+* Operating-system internals
+* Runtime architecture
 * Binary analysis
-* PE / ELF internals
+* Malware development & malware research
 * Reverse engineering
 * Threat modeling
-* Behavioral analysis
 * Detection engineering
-* Sandbox analysis
-* Adversarial simulation
-* Security architecture
+* AI infrastructure
+* LLM orchestration
+* Agentic systems
+* Distributed architectures
+* Network engineering
+* Financial infrastructure
+* Compilers & language engineering
+* WebAssembly
+* Mission-critical systems
+* Infrastructure automation
 
-**Understand the attack surface. Build the defense around reality.**
+I prefer understanding the **execution path**, not just the API.
+
+```text
+APPLICATION
+     ↓
+FRAMEWORK
+     ↓
+RUNTIME
+     ↓
+OPERATING SYSTEM
+     ↓
+PROCESS / MEMORY
+     ↓
+KERNEL INTERFACE
+     ↓
+MACHINE
+```
 
 ---
 
-### 🤖 Automation Architecture
+# ⚔️ ENGINEERING DOMAINS
 
-Turning repetitive human workflows into deterministic, observable software systems.
+## ⚙️ SYSTEMS ENGINEERING
+
+Operating-system interfaces, process models, memory behavior, executable formats, runtime internals, concurrency, IPC, system calls, service architecture and low-level infrastructure.
+
+**Core interests:**
+
+`Rust` `C` `Go` `Python` `PowerShell` `Bash`
+
+`PE` `ELF` `Processes` `Memory` `IPC` `Syscalls` `Runtime Internals`
+
+`Windows NT` `Linux` `WebAssembly`
+
+---
+
+## 🥷 MALWARE DEVELOPMENT & SECURITY RESEARCH
+
+Researching malicious software from the perspective of **execution, behavior, persistence, binary structure, adversarial tradecraft and defensive detection**.
+
+Technical areas of interest include:
+
+* Malware development
+* Malware analysis
+* Reverse engineering
+* PE / ELF internals
+* Process injection research
+* Execution-flow analysis
+* Memory-resident behavior
+* Persistence research
+* Payload architecture
+* Command-and-control architecture research
+* Sandbox analysis
+* Behavioral telemetry
+* Threat modeling
+* Attack-surface analysis
+* Detection engineering
+* Adversarial simulation
+* Anti-analysis research
+* Endpoint behavior analysis
+* Binary instrumentation
+* Static analysis
+* Dynamic analysis
+
+> **Know the offensive surface well enough to engineer the defensive boundary.**
+
+---
+
+## 🧠 AI SYSTEMS ARCHITECTURE
+
+I treat AI as an **engineering substrate**, not simply an API call.
 
 ```text
-OBSERVE
+MODEL LAYER
+    ↓
+MODEL ROUTING
+    ↓
+CONTEXT ENGINEERING
+    ↓
+RETRIEVAL
+    ↓
+MEMORY
+    ↓
+TOOLING
+    ↓
+AGENT ORCHESTRATION
+    ↓
+DECISION SYSTEM
+    ↓
+OBSERVABILITY
+```
+
+Areas include:
+
+* LLM infrastructure
+* Multi-model orchestration
+* Model routing
+* Model fallback strategies
+* Retrieval-Augmented Generation
+* Persistent AI memory
+* Context engineering
+* Agent architectures
+* Tool-using agents
+* Autonomous workflows
+* Structured generation
+* AI verification layers
+* Intelligent automation
+* AI-backed developer infrastructure
+
+---
+
+# 🌐 DISTRIBUTED SYSTEMS
+
+Designing services that communicate, coordinate, fail and recover across network boundaries.
+
+```text
+SERVICE
+   ↕
+API
+   ↕
+MESSAGE
+   ↕
+WORKER
+   ↕
+DATABASE
+   ↕
+TELEMETRY
+   ↕
+RECOVERY
+```
+
+Interests include:
+
+* Distributed state
+* Service orchestration
+* Async execution
+* Event-driven architecture
+* RPC
+* API gateways
+* Fault isolation
+* Failure recovery
+* Idempotency
+* Concurrency
+* Backpressure
+* Retry semantics
+* Health monitoring
+* Observability
+* System integrity
+
+---
+
+# 🤖 AUTOMATION ARCHITECTURE
+
+Turning manual operational workflows into deterministic software pipelines.
+
+```text
+DISCOVER
    ↓
-MODEL
+ANALYZE
    ↓
-AUTOMATE
+DECIDE
    ↓
 EXECUTE
    ↓
 VERIFY
    ↓
+OBSERVE
+   ↓
 RECOVER
 ```
 
+**Automation interests:**
+
+* Infrastructure automation
+* CI/CD
+* PowerShell automation
+* Bash automation
+* GitHub Actions
+* Deployment pipelines
+* Repository automation
+* Developer tooling
+* Autonomous workflows
+* Operational orchestration
+
+> **Automate what others script.**
+
 ---
 
-### 🌐 Distributed Systems
+# 💳 FINANCIAL SYSTEMS ENGINEERING
 
-Service architecture, network communication, asynchronous workloads, API infrastructure, fault handling and system coordination.
+Engineering reliability-critical financial infrastructure.
 
-The objective:
+Areas of interest:
 
-> **Make complexity disappear behind reliable interfaces.**
-
----
-
-### 💳 Financial Infrastructure
-
-Ledger architecture, transaction processing, payment infrastructure, financial automation and reliability-critical backend systems.
+* Double-entry ledger architecture
+* Transaction processing
+* Payment infrastructure
+* Core banking architecture
+* Settlement systems
+* Reconciliation
+* Transaction integrity
+* Idempotent processing
+* Reservation systems
+* Financial automation
+* Auditability
+* Event sourcing
+* ACID transactional semantics
 
 ```text
 REQUEST
@@ -245,76 +278,135 @@ RECONCILE
 AUDIT
 ```
 
-Correctness comes first.
+**Correctness before convenience.**
 
 ---
 
-### 🛰️ Mission-Critical Software
+# 🛰️ MISSION-CRITICAL SOFTWARE
 
-Software for environments where reliability, observability, deterministic behavior and failure handling are fundamental engineering requirements.
+Software designed around the assumption that:
 
 ```text
-NO ASSUMPTIONS
-NO SILENT FAILURES
-NO UNOBSERVABLE STATE
-NO UNCONTROLLED COMPLEXITY
+NETWORKS FAIL
+PROCESSES CRASH
+SERVICES TIME OUT
+STATE BECOMES CORRUPTED
+DEPENDENCIES DISAPPEAR
+INPUTS BECOME HOSTILE
 ```
 
+Therefore:
+
+**observability, deterministic behavior, fault isolation, graceful degradation, verification and recovery become architectural primitives.**
+
 ---
 
-### 🧪 Compilers & Language Engineering
+# 🧬 COMPILERS & LANGUAGE ENGINEERING
 
-Compilers, interpreters, execution models, language design, intermediate representations and WebAssembly.
-
-The interesting part isn't only the language.
-
-It's the journey:
+Interested in the entire transformation pipeline:
 
 ```text
-HUMAN INTENT
-     ↓
 SOURCE
-     ↓
+  ↓
+LEXER
+  ↓
 PARSER
-     ↓
+  ↓
 AST
-     ↓
+  ↓
+SEMANTIC ANALYSIS
+  ↓
 IR
-     ↓
+  ↓
 OPTIMIZATION
-     ↓
+  ↓
 CODE GENERATION
-     ↓
+  ↓
 MACHINE EXECUTION
 ```
 
+Areas:
+
+* Compiler architecture
+* Interpreters
+* Language design
+* ASTs
+* Intermediate representations
+* Code generation
+* Runtime design
+* WebAssembly
+* Execution models
+* Systems languages
+
 ---
 
-# 📡 `CURRENT EXPLORATION`
+# 🔧 TECHNOLOGY STACK
+
+| DOMAIN                   | TECHNOLOGIES                                                                                       |
+| ------------------------ | -------------------------------------------------------------------------------------------------- |
+| **Languages**            | Rust · Go · C · Python · JavaScript · TypeScript · Dart · PowerShell · Bash                        |
+| **Systems**              | Windows NT · Linux · Processes · Memory · IPC · PE · ELF · WebAssembly                             |
+| **Networking**           | TCP/IP · HTTP · HTTP/2 · WebSockets · TLS · RPC · P2P                                              |
+| **Backend**              | FastAPI · REST · AsyncIO · API Gateways · Microservices                                            |
+| **Databases**            | PostgreSQL · SQLite · SQLAlchemy · Alembic                                                         |
+| **AI**                   | LLMs · RAG · Agents · Model Routing · AI Memory · Context Engineering                              |
+| **Security**             | Malware Research · Reverse Engineering · Binary Analysis · Threat Modeling · Detection Engineering |
+| **Crypto**               | AES · RSA · ChaCha20 · TLS · PKI                                                                   |
+| **Automation**           | PowerShell · Bash · GitHub Actions · CI/CD                                                         |
+| **Infrastructure**       | Docker · Git · GitHub · Linux Services                                                             |
+| **Frontend**             | React · HTML · JavaScript · TypeScript · Chart.js                                                  |
+| **Mobile**               | Flutter · Dart                                                                                     |
+| **Language Engineering** | Compilers · Interpreters · AST · IR · WebAssembly                                                  |
+
+---
+
+# 🔬 SECURITY TOOLCHAIN
 
 ```text
-████████████████████████████████  SYSTEMS ENGINEERING
-
-██████████████████████████████░░  AI INFRASTRUCTURE
-
-█████████████████████████████░░░  SECURITY RESEARCH
-
-████████████████████████████░░░░  AUTOMATION
-
-██████████████████████████░░░░░░  DISTRIBUTED SYSTEMS
-
-█████████████████████████░░░░░░░  COMPILERS / LANGUAGES
-
-████████████████████████░░░░░░░░  FINANCIAL INFRASTRUCTURE
-
-███████████████████████░░░░░░░░░  MISSION-CRITICAL SYSTEMS
+STATIC ANALYSIS
+      ↓
+BINARY TRIAGE
+      ↓
+REVERSE ENGINEERING
+      ↓
+DYNAMIC ANALYSIS
+      ↓
+BEHAVIORAL TELEMETRY
+      ↓
+THREAT MODEL
+      ↓
+DETECTION LOGIC
+      ↓
+MITIGATION
 ```
+
+Security interests include:
+
+`EDR`
+
+`IOC / IOA`
+
+`YARA`
+
+`MITRE ATT&CK`
+
+`PE / ELF`
+
+`Process Trees`
+
+`Memory Analysis`
+
+`Behavioral Detection`
+
+`Threat Intelligence`
+
+`Attack Surface Analysis`
+
+`Adversarial Simulation`
 
 ---
 
-# 🧩 `ENGINEERING PHILOSOPHY`
-
-> **Build systems that outlast their creators.**
+# 🧠 ENGINEERING MINDSET
 
 > **Understand what others abstract.**
 
@@ -324,67 +416,72 @@ MACHINE EXECUTION
 
 > **Harden what others ignore.**
 
-> **Engineer for failure before failure engineers you.**
+> **Build for failure before failure builds you.**
+
+> **If the system matters, make it observable.**
 
 ---
 
-# 🕶️ `BEYOND CODE`
-
-I don't see software as isolated source files.
-
-I see:
+# 📡 PROTOCOLS & INFRASTRUCTURE
 
 ```text
-                ┌───────────────┐
-                │    INTENT     │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │   ARCHITECTURE│
-                └───────┬───────┘
-                        ↓
-              ┌───────────────────┐
-              │    IMPLEMENTATION │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │     TELEMETRY     │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │     FEEDBACK      │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │    EVOLUTION      │
-              └───────────────────┘
+TCP/IP
+HTTP
+HTTP/2
+TLS
+WebSockets
+RPC
+IPC
+P2P
+REST
+JSON
+JWT
+OAuth
+DNS
+SMB
 ```
 
-The objective isn't merely to make something **work**.
+Infrastructure thinking revolves around:
 
-The objective is to make it:
-
-**understandable · observable · resilient · automatable · secure · evolvable**
+**latency · throughput · concurrency · availability · integrity · observability · fault tolerance · recovery · security**
 
 ---
 
-# 📌 `PINNED REPOSITORIES`
+# 🧪 ENGINEERING PRINCIPLES
+
+```text
+┌────────────────────────────────────────────────┐
+│                                                │
+│  DESIGN       →  UNDERSTAND THE SYSTEM        │
+│  IMPLEMENT    →  MINIMIZE COMPLEXITY          │
+│  OBSERVE      →  MEASURE REALITY              │
+│  VERIFY       →  DON'T TRUST ASSUMPTIONS      │
+│  AUTOMATE     →  REMOVE REPETITION             │
+│  HARDEN       →  EXPECT ADVERSARIAL INPUT     │
+│  RECOVER      →  EXPECT FAILURE                │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+
+---
+
+# 📌 PINNED REPOSITORIES
 
 <div align="center">
 
-### `MY WORK SPEAKS FOR ITSELF.`
+### **MY WORK SPEAKS FOR ITSELF.**
 
-**↓ Scroll down.**
+*Scroll down.*
 
 </div>
 
 ---
 
-# 📡 `COMMS`
+# 📡 CONTACT
 
 ### Session
 
-For private communication, reach me through Session.
+For private communication:
 
 ```text
 SESSION ID
@@ -392,63 +489,60 @@ SESSION ID
 0585f9bc8380f3137b68d2403611413392ad8bb7ce6464acd7f87456ac4740074f
 ```
 
-If you're new to Session:
+New to Session?
 
 ```text
 INSTALL SESSION
       ↓
 CREATE / OPEN ACCOUNT
       ↓
-NEW MESSAGE / ADD CONTACT
+NEW MESSAGE
+      ↓
+ADD CONTACT
       ↓
 PASTE SESSION ID
       ↓
 SEND MESSAGE
 ```
 
+### GitHub
+
+`github.com/vxssroott`
+
 ---
 
-# 🟢 `SYSTEM STATUS`
+# 🟢 SYSTEM STATUS
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║              V O S S   //   ENGINEERING NODE              ║
-║                                                            ║
-║   ┌──────────────┬─────────────────────────────────────┐   ║
-║   │ STATUS       │ ● ONLINE                            │   ║
-║   │ MODE         │ ACTIVE DEVELOPMENT                   │   ║
-║   │ DOMAIN       │ SYSTEMS / AI / SECURITY             │   ║
-║   │ ENVIRONMENT  │ WINDOWS / LINUX                      │   ║
-║   │ STATE        │ BUILDING                             │   ║
-║   └──────────────┴─────────────────────────────────────┘   ║
-║                                                            ║
-║        BUILD  •  BREAK  •  UNDERSTAND  •  REBUILD         ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 V O S S   //   N O D E                   ║
+║                                                          ║
+║  STATUS       : ● ONLINE                                 ║
+║  MODE         : ACTIVE DEVELOPMENT                       ║
+║  SPECIALTY    : SYSTEMS / AI / SECURITY                  ║
+║  ENVIRONMENT  : WINDOWS / LINUX                          ║
+║  ARCHITECTURE : DISTRIBUTED / AUTONOMOUS                 ║
+║  STATE        : BUILDING                                 ║
+║                                                          ║
+║  BUILD • BREAK • UNDERSTAND • REBUILD                    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
-
----
 
 <div align="center">
 
-<a href="https://github.com/vxssroott">
-
-<img src="https://img.shields.io/github/followers/vxssroott?label=FOLLOW&style=for-the-badge&color=00ff66&labelColor=050505"/>
-<img src="https://img.shields.io/github/stars/vxssroott?label=STARS&style=for-the-badge&color=00ff66&labelColor=050505"/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/vxssroott">
-<img src="https://raw.githubusercontent.com/vxssroott/vxssroott/main/assets/voss-footer.svg" width="100%" alt="Voss — Systems Intelligence Security Infrastructure"/>
-</a>
+### ⚙️ `BUILD • BREAK • UNDERSTAND • REBUILD`
 
 <br>
 
-### `SYSTEMS • INTELLIGENCE • SECURITY • INFRASTRUCTURE`
+![Active](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00FF66?style=for-the-badge\&labelColor=050505)
+![Systems](https://img.shields.io/badge/ENGINEERING-SYSTEMS-00FF66?style=for-the-badge\&labelColor=050505)
+![Security](https://img.shields.io/badge/RESEARCH-SECURITY-00FF66?style=for-the-badge\&labelColor=050505)
+![AI](https://img.shields.io/badge/ARCHITECTURE-AI-00FF66?style=for-the-badge\&labelColor=050505)
 
-**⚙️ BUILD • BREAK • UNDERSTAND • REBUILD**
+<br>
+
+`SYSTEMS` • `INTELLIGENCE` • `SECURITY` • `INFRASTRUCTURE`
 
 </div>
