@@ -282,22 +282,77 @@ AUDIT
 
 ---
 
-# 🛰️ MISSION-CRITICAL SOFTWARE
+# 🛰️ MISSION-CRITICAL SYSTEMS
 
-Software designed around the assumption that:
+Software becomes fundamentally different when **failure is no longer an acceptable outcome**.
+
+I am interested in engineering systems where correctness, availability, deterministic behavior and operational integrity are first-class architectural requirements — particularly across **space systems, financial infrastructure, autonomous platforms, distributed services and security-critical environments.**
+
+### `ENGINEERING FOR THE CONDITIONS THAT BREAK SOFTWARE`
+
+**Deterministic Execution**
+Predictable state transitions, explicit control flow, bounded behavior and reproducible execution paths.
+
+**Fault Tolerance**
+Failure isolation, graceful degradation, timeout boundaries, retry semantics, circuit breaking and controlled recovery.
+
+**State Integrity**
+Explicit state machines, transactional guarantees, invariants, reconciliation and protection against inconsistent system state.
+
+**Telemetry & Observability**
+Structured events, health signals, metrics, traces, audit trails and machine-readable operational telemetry.
+
+**Verification**
+Assertions, validation layers, cryptographic verification, integrity checks and independently verifiable system outcomes.
+
+**Autonomous Operations**
+Decision pipelines capable of monitoring system state, responding to defined conditions and continuing operation without unnecessary human intervention.
+
+**Defensive Architecture**
+Assume hostile inputs, unreliable networks, compromised dependencies, partial failures and unexpected operating conditions.
+
+---
 
 ```text
-NETWORKS FAIL
-PROCESSES CRASH
-SERVICES TIME OUT
-STATE BECOMES CORRUPTED
-DEPENDENCIES DISAPPEAR
-INPUTS BECOME HOSTILE
+MISSION
+   │
+   ▼
+COMMAND
+   │
+   ▼
+VALIDATE ────────► REJECT
+   │
+   ▼
+EXECUTE
+   │
+   ▼
+OBSERVE
+   │
+   ▼
+VERIFY
+   │
+   ├────────────► SUCCESS
+   │
+   ▼
+FAULT DETECTED
+   │
+   ▼
+ISOLATE
+   │
+   ▼
+RECOVER
+   │
+   ▼
+RECONCILE
+   │
+   ▼
+RESUME
 ```
 
-Therefore:
+> **A mission-critical system isn't defined by what happens when everything works.**
+>
+> **It's defined by what happens when everything doesn't.**
 
-**observability, deterministic behavior, fault isolation, graceful degradation, verification and recovery become architectural primitives.**
 
 ---
 
