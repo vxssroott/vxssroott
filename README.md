@@ -537,15 +537,33 @@ Understand **why the system behaves the way it does.**
 
 ---
 
-# 📌 PINNED REPOSITORIES
+# 🚀 PINNED REPOSITORIES
 
 <div align="center">
 
-### **MY WORK SPEAKS FOR ITSELF.**
+### **THE WORK IS THE PORTFOLIO.**
 
-*Scroll down.*
+My pinned repositories represent the systems, infrastructure, research and experiments I am actively engineering.
+
+<br>
+
+![Systems](https://img.shields.io/badge/SYSTEMS-ENGINEERED-00FF66?style=for-the-badge\&labelColor=050505)
+![AI](https://img.shields.io/badge/AI-BUILT-00FF66?style=for-the-badge\&labelColor=050505)
+![Security](https://img.shields.io/badge/SECURITY-RESEARCHED-00FF66?style=for-the-badge\&labelColor=050505)
+![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-ARCHITECTED-00FF66?style=for-the-badge\&labelColor=050505)
+
+<br>
+
+`ARCHITECTURE` · `IMPLEMENTATION` · `RESEARCH` · `EXPERIMENTATION` · `ITERATION`
+
+<br>
+
+> **I don't build projects to fill a GitHub profile.**
+>
+> **I build systems because they need to exist.**
 
 </div>
+
 
 ---
 
