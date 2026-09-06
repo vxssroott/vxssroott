@@ -447,21 +447,93 @@ Infrastructure thinking revolves around:
 
 ---
 
-# 🧪 ENGINEERING PRINCIPLES
+# 🧩 ENGINEERING PRINCIPLES
 
-```text
-┌────────────────────────────────────────────────┐
-│                                                │
-│  DESIGN       →  UNDERSTAND THE SYSTEM        │
-│  IMPLEMENT    →  MINIMIZE COMPLEXITY          │
-│  OBSERVE      →  MEASURE REALITY              │
-│  VERIFY       →  DON'T TRUST ASSUMPTIONS      │
-│  AUTOMATE     →  REMOVE REPETITION             │
-│  HARDEN       →  EXPECT ADVERSARIAL INPUT     │
-│  RECOVER      →  EXPECT FAILURE                │
-│                                                │
-└────────────────────────────────────────────────┘
-```
+### **01 — UNDERSTAND THE MACHINE**
+
+Abstractions are useful. Blind dependence on them isn't.
+
+Understand the runtime, execution model, memory behavior, operating system, network boundary and failure modes beneath the interface.
+
+---
+
+### **02 — DESIGN FOR ADVERSARIAL REALITY**
+
+Inputs can be malformed. Dependencies can fail. Systems can be attacked. Assumptions can be wrong.
+
+Security is not a feature bolted onto architecture afterward — **it is an architectural constraint.**
+
+---
+
+### **03 — OBSERVABILITY IS A PRIMITIVE**
+
+If a system cannot explain what happened, debugging becomes archaeology.
+
+Logs, metrics, traces, telemetry, state transitions and verifiable events belong in the design.
+
+---
+
+### **04 — AUTOMATE THE REPETITIVE**
+
+If a workflow can be expressed as deterministic logic, it should eventually become deterministic software.
+
+**Less ceremony. More execution.**
+
+---
+
+### **05 — VERIFY, DON'T ASSUME**
+
+Correctness should be demonstrated.
+
+Validation, invariants, testing, reconciliation, cryptographic verification and explicit failure handling turn assumptions into evidence.
+
+---
+
+### **06 — FAILURE IS PART OF THE ARCHITECTURE**
+
+Timeouts happen. Processes crash. Networks partition. Services disappear. State becomes inconsistent.
+
+Good systems don't assume failure won't happen.
+
+**They know what to do when it does.**
+
+---
+
+### **07 — MINIMIZE UNNECESSARY COMPLEXITY**
+
+Complexity is a liability.
+
+Prefer architectures that are:
+
+`EXPLICIT` · `COMPOSABLE` · `OBSERVABLE` · `TESTABLE` · `RECOVERABLE`
+
+---
+
+### **08 — BUILD BELOW THE ABSTRACTION**
+
+Don't just consume the technology.
+
+Understand the protocol.
+
+Understand the runtime.
+
+Understand the binary.
+
+Understand the operating system.
+
+Understand **why the system behaves the way it does.**
+
+---
+
+<div align="center">
+
+> **Understand what others abstract.**
+> **Measure what others assume.**
+> **Automate what others script.**
+> **Harden what others ignore.**
+
+</div>
+
 
 ---
 
