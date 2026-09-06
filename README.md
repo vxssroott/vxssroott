@@ -479,26 +479,76 @@ Security interests include:
 
 # 📡 PROTOCOLS & INFRASTRUCTURE
 
+I work at the layer where **machines communicate, services coordinate, state moves, and failures propagate.**
+
+The interesting problems aren't just *which protocol to use* — they're **how information moves through a system, how trust is established, how state is maintained, and what happens when the network stops behaving.**
+
+### 🌐 NETWORK & TRANSPORT
+
+`TCP/IP` · `UDP` · `DNS` · `HTTP/1.1` · `HTTP/2` · `WebSockets` · `TLS` · `SMB` · `P2P`
+
+Transport behavior, connection lifecycle, session semantics, latency, throughput, serialization, framing, congestion, retries and network failure modes.
+
+### 🔌 SERVICE COMMUNICATION
+
+`REST` · `RPC` · `JSON` · `Webhooks` · `IPC` · `Async Messaging`
+
+Designing explicit service boundaries, request/response contracts, asynchronous workflows, idempotent operations and reliable inter-process communication.
+
+### 🏗️ INFRASTRUCTURE ARCHITECTURE
+
+`API GATEWAYS` · `MICROSERVICES` · `WORKERS` · `QUEUES` · `DATABASES` · `CONTAINERS` · `CI/CD`
+
+Building infrastructure around **separation of concerns, fault isolation, horizontal scalability, controlled dependencies and observable execution.**
+
+### 🔐 TRUST & SECURITY
+
+`TLS` · `PKI` · `CRYPTOGRAPHIC INTEGRITY` · `AUTHENTICATION` · `AUTHORIZATION` · `THREAT MODELING`
+
+Security boundaries are designed into the communication path rather than bolted onto the application after the architecture already exists.
+
+### 📊 OBSERVABILITY
+
+`LOGGING` · `METRICS` · `TRACING` · `TELEMETRY` · `HEALTH SIGNALS` · `AUDIT TRAILS`
+
+A distributed system without observability is essentially a black box with an IP address.
+
+---
+
+### `THE INFRASTRUCTURE MODEL`
+
 ```text
-TCP/IP
-HTTP
-HTTP/2
-TLS
-WebSockets
-RPC
-IPC
-P2P
-REST
-JSON
-JWT
-OAuth
-DNS
-SMB
+CLIENT
+  │
+  ▼
+EDGE / GATEWAY
+  │
+  ├──────── AUTHENTICATION
+  ├──────── RATE CONTROL
+  └──────── REQUEST VALIDATION
+              │
+              ▼
+        SERVICE MESH / API
+              │
+       ┌──────┼──────┐
+       ▼      ▼      ▼
+    WORKER  CACHE  DATABASE
+       │      │      │
+       └──────┼──────┘
+              ▼
+        EVENT / TELEMETRY
+              │
+              ▼
+        OBSERVABILITY
+              │
+              ▼
+        DETECTION / RECOVERY
 ```
 
-Infrastructure thinking revolves around:
+> **Protocols define how systems speak.**
+>
+> **Infrastructure determines whether they survive the conversation.**
 
-**latency · throughput · concurrency · availability · integrity · observability · fault tolerance · recovery · security**
 
 ---
 
